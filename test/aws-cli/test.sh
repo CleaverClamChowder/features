@@ -9,4 +9,4 @@ source dev-container-features-test-lib
 check "version" aws --version
 
 # Report result
-reportResults
+reportResults 
